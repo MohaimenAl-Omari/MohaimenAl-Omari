@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohaimen Al-Omari</h1>
-<h3 align="center">Software Developer | PHP (Laravel, Yii2) & Flutter.</h3>
+<h3 align="center">Software Engineer | Developer | PHP (Laravel, Yii2) & Flutter.</h3>
 
 <p align="center">
 Building scalable web & mobile applications with clean architecture
